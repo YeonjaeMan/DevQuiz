@@ -1,4 +1,4 @@
-import 'package:DevQuiz/widget/MyBannerAdWidget.dart';
+import 'package:dev_quiz/widget/my_banner_ad_widget.dart';
 import 'package:flutter/material.dart';
 import 'problem_screen.dart';
 
@@ -31,9 +31,9 @@ class HomeScreen extends StatelessWidget {
               children: _buildButtons(context),
             ),
           ),
-          MyBannerAdWidget(),
         ],
       ),
+      bottomNavigationBar: MyBannerAdWidget(),
     );
   }
 

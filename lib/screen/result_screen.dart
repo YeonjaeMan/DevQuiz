@@ -1,5 +1,5 @@
-import 'package:DevQuiz/service/ad_helper.dart';
-import 'package:DevQuiz/widget/MyBannerAdWidget.dart';
+import 'package:dev_quiz/service/ad_helper.dart';
+import 'package:dev_quiz/widget/my_banner_ad_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import '../model/problem.dart';

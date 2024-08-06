@@ -1,4 +1,4 @@
-import 'package:DevQuiz/widget/myBannerAdWidget.dart';
+import 'package:dev_quiz/widget/my_banner_ad_widget.dart';
 import 'package:flutter/material.dart';
 import '../model/problem.dart';
 import 'result_screen.dart';
